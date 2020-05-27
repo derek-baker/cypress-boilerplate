@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2.341" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-05-27T17:22:31" tests="0" file="cypress\integration\tests\home.spec.ts" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Home page" timestamp="2020-05-27T17:22:31" tests="1" failures="0" time="2.341">
+    <testcase name="Home page loads and has a nav bar" time="2.341" classname="loads and has a nav bar">
+    </testcase>
+  </testsuite>
+</testsuites>

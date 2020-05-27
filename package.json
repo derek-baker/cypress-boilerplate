@@ -1,0 +1,24 @@
+{
+  "name": "test.endtoend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --spec \"cypress/integration/tests/**/*\" --reporter junit --reporter-options \"mochaFile=test-output.xml, toConsole=true\" "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.0.1",
+    "@typescript-eslint/parser": "^3.0.1",
+    "cypress": "^4.7.0",
+    "eslint": "^7.1.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-cypress": "^2.10.3",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "typescript": "^3.9.3"
+  }
+}
