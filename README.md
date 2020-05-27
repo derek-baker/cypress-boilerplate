@@ -1,6 +1,6 @@
 # Cypress-Boilerplate
 
-Semi-opinionated Cypress config.
+Semi-opinionated [Cypress](https://github.com/cypress-io/cypress) config.
 <br><br>
 Includes: 
 - TypeScript config
